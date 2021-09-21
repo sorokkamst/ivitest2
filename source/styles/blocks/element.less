@@ -1,0 +1,27 @@
+.numbers {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  &__wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 30vw;
+    height: 25vw;
+    font-size: 17vw;
+    line-height: 17vw;
+    color: #FFFFFF;
+    background-color: @color-red;
+    clip-path: polygon(20% 0, 80% 0, 100% 20%, 50% 100%, 0% 20%);
+    cursor: pointer;
+    z-index: 10;
+  }
+
+  &__text {
+    position: relative;
+    top: -10%;
+  }
+}
