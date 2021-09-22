@@ -1,4 +1,6 @@
-https://sorokkamst.github.io/ivisite.github.io/
+site - https://sorokkamst.github.io/ivisite.github.io/
+
+rep - https://github.com/sorokkamst/ivisite.github.io
 
 Так же подготовил проект для дальнейшего использования и расширения;
 
